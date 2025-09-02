@@ -1,0 +1,22 @@
+﻿# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.env
+.venv/
+env/
+venv/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Datos grandes
+dataset/
+*.csv
+*.pkl
+*.h5
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
